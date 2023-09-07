@@ -3,4 +3,4 @@ HackerRank Challenge
 
 
 1. All SQL Hackerrank Challenges solutions.
-2. Those are written in MySQL.
+2. Codes are written in MySQL.
